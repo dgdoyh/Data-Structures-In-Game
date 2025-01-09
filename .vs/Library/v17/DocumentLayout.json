@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\b2uty\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|c:\\users\\b2uty\\library\\assets\\scripts\\combat\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|c:\\users\\b2uty\\library\\assets\\scripts\\ui\\hpbarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\hpbarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|C:\\Users\\b2uty\\Library\\assets\\scripts\\saving system\\savingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saving system\\savingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|C:\\Users\\b2uty\\Library\\assets\\scripts\\saving system\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saving system\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|c:\\users\\b2uty\\library\\assets\\scripts\\statemachine\\player\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\player\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|C:\\Users\\b2uty\\Library\\assets\\scripts\\combat\\enemystatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\enemystatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|c:\\users\\b2uty\\library\\assets\\scripts\\inventory\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|c:\\users\\b2uty\\library\\assets\\controls\\inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|solutionrelative:assets\\controls\\inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|C:\\Users\\b2uty\\Library\\assets\\scripts\\saving system\\gamedatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saving system\\gamedatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|C:\\Users\\b2uty\\Library\\assets\\scripts\\combat\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|C:\\Users\\b2uty\\Library\\assets\\scripts\\inventory\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|C:\\Users\\b2uty\\Library\\assets\\scripts\\map\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\map\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|C:\\Users\\b2uty\\Library\\assets\\scripts\\combat\\expmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\expmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|C:\\Users\\b2uty\\Library\\assets\\scripts\\npc\\quest\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\quest\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|C:\\Users\\b2uty\\Library\\assets\\scripts\\npc\\quest\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\quest\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|C:\\Users\\b2uty\\Library\\assets\\scripts\\npc\\dialoguequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\dialoguequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|C:\\Users\\b2uty\\Library\\assets\\scripts\\inventory\\inventoryuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\inventoryuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|C:\\Users\\b2uty\\Library\\assets\\scripts\\inventory\\itemuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB8E5EE-6FC3-19D0-9676-445CE4A3477E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\itemuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerStateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\StateMachine\\Player\\PlayerStateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\Player\\PlayerStateMachine.cs",
+              "ToolTip": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\StateMachine\\Player\\PlayerStateMachine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\Player\\PlayerStateMachine.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwDAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T04:11:42.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HPBarManager.cs",
+              "DocumentMoniker": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\UI\\HPBarManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\HPBarManager.cs",
+              "ToolTip": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\UI\\HPBarManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\HPBarManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T04:07:48.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Combat\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Health.cs",
+              "ToolTip": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Combat\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Health.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:58:17.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InputReader.cs",
+              "DocumentMoniker": "C:\\Users\\b2uty\\Library\\Assets\\Controls\\InputReader.cs",
+              "RelativeDocumentMoniker": "Assets\\Controls\\InputReader.cs",
+              "ToolTip": "C:\\Users\\b2uty\\Library\\Assets\\Controls\\InputReader.cs",
+              "RelativeToolTip": "Assets\\Controls\\InputReader.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAcwHIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:54:57.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Combat\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\BinarySearchTree.cs",
+              "ToolTip": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Combat\\BinarySearchTree.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\BinarySearchTree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:10:50.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyStatManager.cs",
+              "DocumentMoniker": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Combat\\EnemyStatManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\EnemyStatManager.cs",
+              "ToolTip": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Combat\\EnemyStatManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\EnemyStatManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:10:38.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Saving System\\GameData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Saving System\\GameData.cs",
+              "ToolTip": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Saving System\\GameData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Saving System\\GameData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:08:54.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Saving System\\SavingSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Saving System\\SavingSystem.cs",
+              "ToolTip": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Saving System\\SavingSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Saving System\\SavingSystem.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:08:44.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Inventory\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\Item.cs",
+              "ToolTip": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Inventory\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:28:30.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Saving System\\GameDataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Saving System\\GameDataManager.cs",
+              "ToolTip": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Saving System\\GameDataManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Saving System\\GameDataManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:08:51.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Inventory\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Inventory\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\InventoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:55:59.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExpManager.cs",
+              "DocumentMoniker": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Combat\\ExpManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\ExpManager.cs",
+              "ToolTip": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Combat\\ExpManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\ExpManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-19T12:10:29.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Map\\Map.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Map\\Map.cs",
+              "ToolTip": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Map\\Map.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Map\\Map.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-19T12:06:30.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DialogueQueue.cs",
+              "DocumentMoniker": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\NPC\\DialogueQueue.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC\\DialogueQueue.cs",
+              "ToolTip": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\NPC\\DialogueQueue.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC\\DialogueQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-19T12:04:19.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Quest.cs",
+              "DocumentMoniker": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\NPC\\Quest\\Quest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC\\Quest\\Quest.cs",
+              "ToolTip": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\NPC\\Quest\\Quest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC\\Quest\\Quest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-15T18:12:00.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuestManager.cs",
+              "DocumentMoniker": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\NPC\\Quest\\QuestManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC\\Quest\\QuestManager.cs",
+              "ToolTip": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\NPC\\Quest\\QuestManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC\\Quest\\QuestManager.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAYwDYAAAAeAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-15T18:11:22.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InventoryUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Inventory\\InventoryUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\InventoryUIManager.cs",
+              "ToolTip": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Inventory\\InventoryUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\InventoryUIManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-15T18:00:10.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Inventory\\ItemUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\ItemUIManager.cs",
+              "ToolTip": "C:\\Users\\b2uty\\Library\\Assets\\Scripts\\Inventory\\ItemUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\ItemUIManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-15T17:56:24.317Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1498,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
